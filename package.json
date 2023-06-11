@@ -1,0 +1,25 @@
+{
+  "name": "process-node-wolf-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "hello": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joinzhu/process-node-wolf-book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joinzhu/process-node-wolf-book/issues"
+  },
+  "homepage": "https://github.com/joinzhu/process-node-wolf-book#readme",
+  "devDependencies": {
+    "yargs": "^17.7.2"
+  }
+}
